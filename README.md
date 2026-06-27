@@ -130,8 +130,3 @@ const renderedContent = computed(() => {
 ## 📧 联系我
 
 - GitHub：[@LeslieNice1](https://github.com/LeslieNice1)
-- 邮箱：xxxx@example.com
-
----
-
-⭐ 如果这个项目对你有帮助，欢迎给个 Star！
